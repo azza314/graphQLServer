@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "1",
+      "humanName": "Tony Stark",
+      "heroName": "Iron Man",
+      "powers": [
+        "Flight",
+        " hand-to-hand combat",
+        "superhuman strength"
+      ]
+    },
+    {
+      "id": "2",
+      "humanName": "Steve Rogers",
+      "heroName": "Captain America",
+      "powers": [
+        "Martial Arts",
+        "hand-to-hand combat",
+        "accelerated healing",
+        "vibranium shield",
+        "is cute"
+      ]
+    },
+    {
+      "id": "3",
+      "humanName": "T'Challa (Luke Charles)",
+      "heroName": "Black Panther",
+      "powers": [
+        "Knowledge & strength of previous black panthers",
+        " martial artist",
+        "inventor",
+        "vibranium suit",
+        "superhuman strength and abilities",
+        "genius intellect"
+      ]
+    },
+    {
+      "heroName": "Spider-Man",
+      "humanName": "Peter Parker",
+      "powers": [
+        "Super-human ablilites",
+        "precognitive spider-sense abilities",
+        "Utilizes wrist-web shooters"
+      ],
+      "id": "L9ecwRF"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+// GraphIQL queries
+// {
+//     hero(id:"1"){
+//         heroName, 
+//         humanName
+//     }
+// }
+
+// {
+//     heroes{
+//         heroName,
+//         humanName,
+//         powers
+//     }
+// } 
+
+// Mutation Queries: 
+// mutation{
+//     addHero(
+//       heroName:"Spider-Man",
+//       humanName: "Peter Parker", 
+//       powers:["Super-human ablilites", "precognitive spider-sense abilities", "Utilizes wrist-web shooters"]
+//     ), {
+//     id,
+//     heroName, 
+//     humanName, 
+//     powers
+//     }
+//   }
+
+//   mutation{
+//     deleteHero(id:"4"){
+//       id
+//     }
+//   }
+
+//   mutation{ 
+//       editHero(id:"2", powers: ["Martial Arts",
+//           "hand-to-hand combat",
+//           "accelerated healing",
+//           "vibranium shield"
+//     ]){
+//       id, 
+//       heroName
+//     }
+//   }
+
